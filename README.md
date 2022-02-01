@@ -1,3 +1,6 @@
 # WS_Git
 
-Hello every bod yyy
+public class Hello()
+{
+  Debug.Log("Hello my beautiful World");
+}
